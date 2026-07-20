@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Building meaningful digital experiences through code, design, and innovation.
+  Building meaningful digital experiences through code, design and innovation.
 </p>
 
 ---
@@ -24,7 +24,7 @@ I enjoy creating real-world solutions by combining clean code, thoughtful design
 
 # 🚀 Featured Projects
 
-## 🩸 LifeLink — Privacy-First Blood Donation Platform
+🩸 LifeLink
 
 A healthcare platform designed to connect blood donors with hospitals faster and more securely.
 
@@ -39,9 +39,7 @@ LifeLink focuses on replacing slow emergency blood searches with a localized mat
 
 🔗 [View Project](https://github.com/zendy08/LifeLink)
 
----
-
-## 🐜 The-ANTS
+🐜 The-ANTS
 
 A software project exploring creative solutions through technology and development.
 
@@ -91,10 +89,7 @@ A software project exploring creative solutions through technology and developme
 </a>
 
 </p>
-
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy08&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </p>
 
