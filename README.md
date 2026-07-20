@@ -1,7 +1,9 @@
 # Hi, I'm Zay Lynn Htet 👋
 
 <p align="center">
-  <b>Computer Science Student • Frontend Developer • UI/UX Enthusiast</b>
+  <img src="https://img.shields.io/badge/Computer%20Science%20Student-1E88E5?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-FF6F61?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -20,129 +22,109 @@ I enjoy creating real-world solutions by combining clean code, thoughtful design
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🩸 LifeLink — Privacy-First Blood Donation Platform
+## 🩸 LifeLink — Privacy-First Blood Donation Platform
 
 A healthcare platform designed to connect blood donors with hospitals faster and more securely.
 
-LifeLink replaces slow emergency blood searches with a localized matching system that helps communities respond during critical situations while protecting donor privacy.
+LifeLink focuses on replacing slow emergency blood searches with a localized matching system while protecting donor privacy.
 
-**Focus Areas:**
-- Healthcare technology
-- User-centered design
-- Privacy-focused systems
-- Real-world social impact
+### 💡 Focus
 
-**Technologies:**
-- React
-- TypeScript
-- JavaScript
-- UI/UX Design
+![Healthcare](https://img.shields.io/badge/Healthcare%20Technology-E53935?style=flat-square)
+![Social Impact](https://img.shields.io/badge/Social%20Impact-43A047?style=flat-square)
+![UI%2FUX](https://img.shields.io/badge/User%20Centered%20Design-7E57C2?style=flat-square)
+![Privacy](https://img.shields.io/badge/Privacy%20Focused-546E7A?style=flat-square)
 
-🔗 Repository: https://github.com/zendy08/LifeLink
+### 🛠 Built With
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🐜 The-ANTS
-
-A software project exploring creative solutions through technology, development, and problem-solving.
-
-**Focus Areas:**
-- Software development
-- Innovation
-- Collaboration
-- Learning through building
-
-**Technologies:**
-- Java
-- Python
-- Web Technologies
-
-🔗 Repository: https://github.com/zendy08/The-ANTS
+🔗 [View Project](https://github.com/zendy08/LifeLink)
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🐜 The-ANTS
 
-### Programming Languages
+A software project exploring creative solutions through technology and development.
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 💡 Focus
 
-### Frontend Development
+![Software Development](https://img.shields.io/badge/Software%20Development-2196F3?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-FF9800?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=flat-square)
 
-![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🛠 Built With
 
-### Design & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🔗 [View Project](https://github.com/zendy08/The-ANTS)
 
 ---
 
-## 🎨 What I Like Building
+# 🛠 Tech Stack
 
-- Responsive web applications
-- Modern user interfaces
-- Healthcare and community-focused platforms
-- Design systems
-- Products that solve real-world problems
+## Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🌱 Currently Learning
+## Frontend
 
-- Advanced React development
-- Full-stack web development
-- Software engineering principles
-- Database design
-- UI/UX design systems
-- AI-assisted development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+## Tools
 
-## 🎯 Goals
-
-- Build scalable and meaningful software
-- Become a strong software engineer with design skills
-- Contribute to open-source projects
-- Collaborate with developers worldwide
-- Create technology that improves people's experiences
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zendy08&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy08&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+![React](https://img.shields.io/badge/Advanced%20React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Development-000000?style=flat-square)
+![AI](https://img.shields.io/badge/AI%20Assisted%20Development-412991?style=flat-square)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="[https://github.com/zendy08]">
+<a href="https://github.com/zendy08">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="[https://www.linkedin.com/zaylynnhtet]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:zaylynnhtet12@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zendy08&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zendy08&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </p>
 
