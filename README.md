@@ -32,7 +32,7 @@ I enjoy creating real-world solutions by combining clean code, thoughtful design
 - Creating modern, responsive user interfaces with strong **UX principles**
 - Exploring **AI/ML, automation, and data processing with Python**
 - Developing community-focused projects, including healthcare and education technology solutions
-- Growing through hackathons, open-source projects, and collaborative development
+- Growing through hackathons, open-source projects and collaborative development
 ---  
 
 # 🛠 Tech Stack
