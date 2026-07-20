@@ -18,40 +18,22 @@ I'm a Computer Science student passionate about building impactful software thro
 
 I enjoy creating real-world solutions by combining clean code, thoughtful design and modern technologies.
 
-🎓 Incoming Computer Science student at **Toronto Metropolitan University (Fall 2026)**
-
 ---
 
-# 🚀 Featured Projects
-
-🩸 LifeLink
-
-A healthcare platform designed to connect blood donors with hospitals faster and more securely.
-
-LifeLink focuses on replacing slow emergency blood searches with a localized matching system while protecting donor privacy.
-
-### 💡 Focus
-
-![Healthcare](https://img.shields.io/badge/Healthcare%20Technology-E53935?style=flat-square)
-![Social Impact](https://img.shields.io/badge/Social%20Impact-43A047?style=flat-square)
-![UI%2FUX](https://img.shields.io/badge/User%20Centered%20Design-7E57C2?style=flat-square)
-![Privacy](https://img.shields.io/badge/Privacy%20Focused-546E7A?style=flat-square)
-
-🔗 [View Project](https://github.com/zendy08/LifeLink)
-
-🐜 The-ANTS
-
-A software project exploring creative solutions through technology and development.
-
-### 💡 Focus
-
-![Software Development](https://img.shields.io/badge/Software%20Development-2196F3?style=flat-square)
-![Innovation](https://img.shields.io/badge/Innovation-FF9800?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-9C27B0?style=flat-square)
-
-🔗 [View Project](https://github.com/zendy08/The-ANTS)
-
+### 🎓 Certifications & Education
+* **Ontario Secondary School Diploma:** earned top marks in English (90%), Computer Science (86%) and Mathematics, demonstrating a solid foundation for Computer Science studies.
+* **Current Pursuit:** Incoming Computer Science student at **Toronto Metropolitan University (Fall 2026).
+  
 ---
+
+### 🔭 Currently Focused On
+
+- Building scalable web applications using **Laravel + Vue.js + Inertia.js**
+- Creating modern, responsive user interfaces with strong **UX principles**
+- Exploring **AI/ML, automation, and data processing with Python**
+- Developing community-focused projects, including healthcare and education technology solutions
+- Growing through hackathons, open-source projects, and collaborative development
+---  
 
 # 🛠 Tech Stack
 
@@ -59,20 +41,9 @@ A software project exploring creative solutions through technology and developme
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
@@ -88,9 +59,7 @@ A software project exploring creative solutions through technology and developme
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
----
-
+</p>  
 </p>
 
 ---
