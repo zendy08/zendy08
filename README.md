@@ -22,7 +22,7 @@ I enjoy creating real-world solutions by combining clean code, thoughtful design
 
 ## 🎓 Certifications & Education
 * **Ontario Secondary School Diploma:** earned top marks in English (90%), Computer Science (86%) and Mathematics, demonstrating a solid foundation for Computer Science studies.
-* **Current Pursuit:** Incoming Computer Science student at **Toronto Metropolitan University (Fall 2026).
+* **Current Pursuit:** Incoming Computer Science student at Toronto Metropolitan University (Fall 2026).
   
 ---
 
