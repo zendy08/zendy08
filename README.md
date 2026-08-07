@@ -28,11 +28,11 @@ I enjoy creating real-world solutions by combining clean code, thoughtful design
 
 ## 🔭 Currently Focused On
 
-- Building scalable web applications using **Laravel + Vue.js + Inertia.js**
-- Creating modern, responsive user interfaces with strong **UX principles**
-- Exploring **AI/ML, automation, and data processing with Python**
-- Developing community-focused projects, including healthcare and education technology solutions
-- Growing through hackathons, open-source projects and collaborative development
+* 🌱 Learning full-stack web development with Laravel, Vue.js and Inertia.js through personal and community projects.
+* 🎨 Exploring UI/UX design and building responsive, user-friendly web interfaces.
+* 🤖 Experimenting with Python, AI tools and automation to understand practical software development workflows.
+* ❤️ Developing community-focused projects in healthcare and education while strengthening my programming skills.
+* 🚀 Growing through hackathons, open-source exploration and continuous hands-on learning.
 ---  
 
 # 🛠 Tech Stack
